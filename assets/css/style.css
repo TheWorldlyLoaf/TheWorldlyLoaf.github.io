@@ -463,6 +463,7 @@ Responsive Styles
   }
 }
 @media screen and (max-width: 550px) {
+body {height: 100vh;} 
 .bg {
   background-size:contain;
 }
