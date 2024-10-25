@@ -470,8 +470,22 @@ Responsive Styles
 .blazer {
   padding: 25px 0;
 }
-  h2 {
+.bg {
+  background-position-x: 20px;
+  background-size:contain;
+}
+h2 {
     font-size: 28px;
+    margin-left: 40px;
+}
+.social-icon { 
+	margin-left: 40px;
+}
+h5 {
+  margin-left: 40px;
+}
+.copyRights{
+  margin-left: 40px;
   }
   .contact-block h2 {
     margin-bottom: 30px;
