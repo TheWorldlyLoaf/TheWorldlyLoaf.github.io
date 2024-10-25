@@ -402,7 +402,7 @@ Responsive Styles
   
   .blazer img {
 	  position:relative;
-	  bottom:-96px;
+	  bottom:0px;
   }
 
 /*--------targetting the opera----------*/
