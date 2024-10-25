@@ -402,7 +402,7 @@ Responsive Styles
   }
   
   .blazer img {
-	  position:relative;
+	  position:cover;
 	  bottom:0px;
   }
 
