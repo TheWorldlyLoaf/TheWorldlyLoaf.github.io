@@ -380,6 +380,7 @@ Responsive Styles
   .blazer-content
    {
     height: 100%;
+    width: 100%;
   }
   .contact-block {
     position: relative;
